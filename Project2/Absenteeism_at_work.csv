@@ -1,0 +1,741 @@
+ID,Reason for absence,Month of absence,Day of the week,Seasons,Transportation expense,Distance from Residence to Work,Service time,Age,Work load Average/day ,Hit target,Disciplinary failure,Education,Son,Social drinker,Social smoker,Pet,Weight,Height,Body mass index
+11,physiotherapy,7,3,1,289,36,13,33,239554,97,0,1,2,1,0,1,90,172,30
+36,with no reason,7,3,1,118,13,18,50,239554,97,1,1,1,1,0,0,98,178,31
+3,medical consultation,7,4,1,179,51,18,38,239554,97,0,1,0,1,0,0,89,170,31
+7,Diseases of the eye and adnexa,7,5,1,279,5,14,39,239554,97,0,1,2,1,1,0,68,168,24
+11,medical consultation,7,5,1,289,36,13,33,239554,97,0,1,2,1,0,1,90,172,30
+3,medical consultation,7,6,1,179,51,18,38,239554,97,0,1,0,1,0,0,89,170,31
+10,patient follow-up,7,6,1,361,52,3,28,239554,97,0,1,1,1,0,4,80,172,27
+20,medical consultation,7,6,1,260,50,11,36,239554,97,0,1,4,1,0,0,65,168,23
+14,"Injury, poisoning and certain other consequences of external causes",7,2,1,155,12,14,34,239554,97,0,1,2,1,0,0,95,196,25
+1,patient follow-up,7,2,1,235,11,14,37,239554,97,0,3,1,0,0,1,88,172,29
+20,Certain infectious and parasitic diseases,7,2,1,260,50,11,36,239554,97,0,1,4,1,0,0,65,168,23
+20,Certain infectious and parasitic diseases,7,3,1,260,50,11,36,239554,97,0,1,4,1,0,0,65,168,23
+20,Diseases of the digestive system,7,4,1,260,50,11,36,239554,97,0,1,4,1,0,0,65,168,23
+3,Diseases of the digestive system,7,4,1,179,51,18,38,239554,97,0,1,0,1,0,0,89,170,31
+3,medical consultation,7,4,1,179,51,18,38,239554,97,0,1,0,1,0,0,89,170,31
+24,Diseases of the genitourinary system,7,6,1,246,25,16,41,239554,97,0,1,0,1,0,0,67,170,23
+3,medical consultation,7,6,1,179,51,18,38,239554,97,0,1,0,1,0,0,89,170,31
+3,Factors influencing health status and contact with health services,7,2,1,179,51,18,38,239554,97,0,1,0,1,0,0,89,170,31
+6,Diseases of the digestive system,7,5,1,189,29,13,33,239554,97,0,1,2,0,0,2,69,167,25
+33,medical consultation,8,4,1,248,25,14,47,205917,92,0,1,2,0,0,1,86,165,32
+18,Diseases of the respiratory system,8,4,1,330,16,4,28,205917,92,0,2,0,0,0,0,84,182,25
+3,Diseases of the digestive system,8,2,1,179,51,18,38,205917,92,0,1,0,1,0,0,89,170,31
+10,Diseases of the musculoskeletal system and connective tissue,8,2,1,361,52,3,28,205917,92,0,1,1,1,0,4,80,172,27
+20, dental consultation,8,6,1,260,50,11,36,205917,92,0,1,4,1,0,0,65,168,23
+11,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,2,1,289,36,13,33,205917,92,0,1,2,1,0,1,90,172,30
+10,laboratory examination,8,2,1,361,52,3,28,205917,92,0,1,1,1,0,4,80,172,27
+11,medical consultation,8,3,1,289,36,13,33,205917,92,0,1,2,1,0,1,90,172,30
+30, dental consultation,8,4,1,157,27,6,29,205917,92,0,1,0,1,1,0,75,185,22
+11,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,4,1,289,36,13,33,205917,92,0,1,2,1,0,1,90,172,30
+3,medical consultation,8,6,1,179,51,18,38,205917,92,0,1,0,1,0,0,89,170,31
+3,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,2,1,179,51,18,38,205917,92,0,1,0,1,0,0,89,170,31
+2,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,5,1,235,29,12,48,205917,92,0,1,1,0,1,5,88,163,33
+1,medical consultation,8,5,1,235,11,14,37,205917,92,0,3,1,0,0,1,88,172,29
+2,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,2,1,235,29,12,48,205917,92,0,1,1,0,1,5,88,163,33
+3,medical consultation,8,2,1,179,51,18,38,205917,92,0,1,0,1,0,0,89,170,31
+10,medical consultation,8,2,1,361,52,3,28,205917,92,0,1,1,1,0,4,80,172,27
+11,blood donation,8,3,1,289,36,13,33,205917,92,0,1,2,1,0,1,90,172,30
+19,Diseases of the digestive system,8,5,1,291,50,12,32,205917,92,0,1,0,1,0,0,65,169,23
+2, dental consultation,8,6,1,235,29,12,48,205917,92,0,1,1,0,1,5,88,163,33
+20,medical consultation,8,6,1,260,50,11,36,205917,92,0,1,4,1,0,0,65,168,23
+27,medical consultation,9,3,2,184,42,7,27,241476,92,0,1,0,0,0,0,58,167,21
+34,medical consultation,9,2,2,118,10,10,37,241476,92,0,1,0,0,0,0,83,172,28
+3,medical consultation,9,3,2,179,51,18,38,241476,92,0,1,0,1,0,0,89,170,31
+5,"Injury, poisoning and certain other consequences of external causes",9,3,2,235,20,13,43,241476,92,0,1,1,1,0,0,106,167,38
+14,medical consultation,9,4,2,155,12,14,34,241476,92,0,1,2,1,0,0,95,196,25
+34,medical consultation,9,2,2,118,10,10,37,241476,92,0,1,0,0,0,0,83,172,28
+3,medical consultation,9,3,2,179,51,18,38,241476,92,0,1,0,1,0,0,89,170,31
+15,medical consultation,9,5,2,291,31,12,40,241476,92,0,1,1,1,0,1,73,171,25
+20,patient follow-up,9,6,2,260,50,11,36,241476,92,0,1,4,1,0,0,65,168,23
+15,Diseases of the genitourinary system,9,2,2,291,31,12,40,241476,92,0,1,1,1,0,1,73,171,25
+20,with no reason,9,2,2,260,50,11,36,241476,92,1,1,4,1,0,0,65,168,23
+29,with no reason,9,2,2,225,26,9,28,241476,92,1,1,1,0,0,2,69,169,24
+28,medical consultation,9,3,2,225,26,9,28,241476,92,0,1,1,0,0,2,69,169,24
+34,medical consultation,9,3,2,118,10,10,37,241476,92,0,1,0,0,0,0,83,172,28
+11,with no reason,9,3,2,289,36,13,33,241476,92,1,1,2,1,0,1,90,172,30
+36,with no reason,9,3,2,118,13,18,50,241476,92,1,1,1,1,0,0,98,178,31
+28,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",9,4,2,225,26,9,28,241476,92,0,1,1,0,0,2,69,169,24
+3,medical consultation,9,4,2,179,51,18,38,241476,92,0,1,0,1,0,0,89,170,31
+13,with no reason,9,4,2,369,17,12,31,241476,92,1,1,3,1,0,0,70,169,25
+33,medical consultation,9,6,2,248,25,14,47,241476,92,0,1,2,0,0,1,86,165,32
+3,medical consultation,9,6,2,179,51,18,38,241476,92,0,1,0,1,0,0,89,170,31
+20,medical consultation,9,6,2,260,50,11,36,241476,92,0,1,4,1,0,0,65,168,23
+3,medical consultation,10,3,2,179,51,18,38,253465,93,0,1,0,1,0,0,89,170,31
+34,medical consultation,10,3,2,118,10,10,37,253465,93,0,1,0,0,0,0,83,172,28
+36,with no reason,10,4,2,118,13,18,50,253465,93,1,1,1,1,0,0,98,178,31
+22,medical consultation,10,5,2,179,26,9,30,253465,93,0,3,0,0,0,0,56,171,19
+3,medical consultation,10,6,2,179,51,18,38,253465,93,0,1,0,1,0,0,89,170,31
+28,medical consultation,10,6,2,225,26,9,28,253465,93,0,1,1,0,0,2,69,169,24
+34,medical consultation,10,3,2,118,10,10,37,253465,93,0,1,0,0,0,0,83,172,28
+28,medical consultation,10,4,2,225,26,9,28,253465,93,0,1,1,0,0,2,69,169,24
+33,medical consultation,10,4,2,248,25,14,47,253465,93,0,1,2,0,0,1,86,165,32
+15,medical consultation,10,5,2,291,31,12,40,253465,93,0,1,1,1,0,1,73,171,25
+3,medical consultation,10,4,2,179,51,18,38,253465,93,0,1,0,1,0,0,89,170,31
+28,medical consultation,10,4,2,225,26,9,28,253465,93,0,1,1,0,0,2,69,169,24
+20,"Injury, poisoning and certain other consequences of external causes",10,5,2,260,50,11,36,253465,93,0,1,4,1,0,0,65,168,23
+15,Diseases of the genitourinary system,10,3,2,291,31,12,40,253465,93,0,1,1,1,0,1,73,171,25
+28, dental consultation,10,3,2,225,26,9,28,253465,93,0,1,1,0,0,2,69,169,24
+11,physiotherapy,10,4,2,289,36,13,33,253465,93,0,1,2,1,0,1,90,172,30
+10,medical consultation,10,6,2,361,52,3,28,253465,93,0,1,1,1,0,4,80,172,27
+20, dental consultation,10,6,2,260,50,11,36,253465,93,0,1,4,1,0,0,65,168,23
+3,medical consultation,11,5,2,179,51,18,38,306345,93,0,1,0,1,0,0,89,170,31
+28,medical consultation,11,4,2,225,26,9,28,306345,93,0,1,1,0,0,2,69,169,24
+3,Diseases of the musculoskeletal system and connective tissue,11,5,2,179,51,18,38,306345,93,0,1,0,1,0,0,89,170,31
+17,Factors influencing health status and contact with health services,11,5,2,179,22,17,40,306345,93,0,2,2,0,1,0,63,170,22
+15,medical consultation,11,5,2,291,31,12,40,306345,93,0,1,1,1,0,1,73,171,25
+14,Diseases of the respiratory system,11,2,2,155,12,14,34,306345,93,0,1,2,1,0,0,95,196,25
+6,patient follow-up,11,2,2,189,29,13,33,306345,93,0,1,2,0,0,2,69,167,25
+15,Diseases of the genitourinary system,11,2,2,291,31,12,40,306345,93,0,1,1,1,0,1,73,171,25
+28,medical consultation,11,4,2,225,26,9,28,306345,93,0,1,1,0,0,2,69,169,24
+14,Diseases of the nervous system,11,6,2,155,12,14,34,306345,93,0,1,2,1,0,0,95,196,25
+28,medical consultation,11,4,2,225,26,9,28,306345,93,0,1,1,0,0,2,69,169,24
+17,Factors influencing health status and contact with health services,11,4,2,179,22,17,40,306345,93,0,2,2,0,1,0,63,170,22
+28,Diseases of the musculoskeletal system and connective tissue,11,6,2,225,26,9,28,306345,93,0,1,1,0,0,2,69,169,24
+20, dental consultation,11,6,2,260,50,11,36,306345,93,0,1,4,1,0,0,65,168,23
+33, dental consultation,11,2,2,248,25,14,47,306345,93,0,1,2,0,0,1,86,165,32
+28, dental consultation,11,3,2,225,26,9,28,306345,93,0,1,1,0,0,2,69,169,24
+11,Diseases of the eye and adnexa,11,4,2,289,36,13,33,306345,93,0,1,2,1,0,1,90,172,30
+15,medical consultation,11,5,2,291,31,12,40,306345,93,0,1,1,1,0,1,73,171,25
+33,medical consultation,12,3,3,248,25,14,47,261306,97,0,1,2,0,0,1,86,165,32
+34,"Injury, poisoning and certain other consequences of external causes",12,3,3,118,10,10,37,261306,97,0,1,0,0,0,0,83,172,28
+36,medical consultation,12,4,3,118,13,18,50,261306,97,0,1,1,1,0,0,98,178,31
+1,physiotherapy,12,4,3,235,11,14,37,261306,97,0,3,1,0,0,1,88,172,29
+28,medical consultation,12,5,3,225,26,9,28,261306,97,0,1,1,0,0,2,69,169,24
+20,physiotherapy,12,6,3,260,50,11,36,261306,97,0,1,4,1,0,0,65,168,23
+34,"Injury, poisoning and certain other consequences of external causes",12,3,3,118,10,10,37,261306,97,0,1,0,0,0,0,83,172,28
+10,patient follow-up,12,4,3,361,52,3,28,261306,97,0,1,1,1,0,4,80,172,27
+28, dental consultation,12,5,3,225,26,9,28,261306,97,0,1,1,0,0,2,69,169,24
+20, dental consultation,12,6,3,260,50,11,36,261306,97,0,1,4,1,0,0,65,168,23
+28,medical consultation,12,3,3,225,26,9,28,261306,97,0,1,1,0,0,2,69,169,24
+10,patient follow-up,12,4,3,361,52,3,28,261306,97,0,1,1,1,0,4,80,172,27
+34,27,12,6,3,118,10,10,37,261306,97,0,1,0,0,0,0,83,172,28
+24,"Injury, poisoning and certain other consequences of external causes",12,6,3,246,25,16,41,261306,97,0,1,0,1,0,0,67,170,23
+28,medical consultation,12,6,3,225,26,9,28,261306,97,0,1,1,0,0,2,69,169,24
+28,medical consultation,1,4,3,225,26,9,28,308593,95,0,1,1,0,0,2,69,169,24
+34,"Injury, poisoning and certain other consequences of external causes",1,2,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+34,27,1,3,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+14,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,3,3,155,12,14,34,308593,95,0,1,2,1,0,0,95,196,25
+28,27,1,4,3,225,26,9,28,308593,95,0,1,1,0,0,2,69,169,24
+27,medical consultation,1,5,3,184,42,7,27,308593,95,0,1,0,0,0,0,58,167,21
+28, dental consultation,1,5,3,225,26,9,28,308593,95,0,1,1,0,0,2,69,169,24
+28,27,1,6,3,225,26,9,28,308593,95,0,1,1,0,0,2,69,169,24
+34,27,1,2,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+28,27,1,3,3,225,26,9,28,308593,95,0,1,1,0,0,2,69,169,24
+34,27,1,3,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+34,27,1,4,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+34,27,1,5,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+34,27,1,6,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+34,27,1,2,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+34,27,1,3,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+22,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,3,3,179,26,9,30,308593,95,0,3,0,0,0,0,56,171,19
+11,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,3,3,289,36,13,33,308593,95,0,1,2,1,0,1,90,172,30
+34,27,1,4,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+27,medical consultation,1,5,3,184,42,7,27,308593,95,0,1,0,0,0,0,58,167,21
+34,27,1,5,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+34,27,1,2,3,118,10,10,37,308593,95,0,1,0,0,0,0,83,172,28
+28,medical consultation,1,3,3,225,26,9,28,308593,95,0,1,1,0,0,2,69,169,24
+11,patient follow-up,1,5,3,289,36,13,33,308593,95,0,1,2,1,0,1,90,172,30
+27,medical consultation,2,6,3,184,42,7,27,302585,99,0,1,0,0,0,0,58,167,21
+24,Certain infectious and parasitic diseases,2,4,3,246,25,16,41,302585,99,0,1,0,1,0,0,67,170,23
+3,Diseases of the digestive system,2,4,3,179,51,18,38,302585,99,0,1,0,1,0,0,89,170,31
+14, dental consultation,2,5,3,155,12,14,34,302585,99,0,1,2,1,0,0,95,196,25
+6,medical consultation,2,5,3,189,29,13,33,302585,99,0,1,2,0,0,2,69,167,25
+20, dental consultation,2,6,3,260,50,11,36,302585,99,0,1,4,1,0,0,65,168,23
+11,patient follow-up,2,6,3,289,36,13,33,302585,99,0,1,2,1,0,1,90,172,30
+31,Diseases of the digestive system,2,2,3,388,15,9,50,302585,99,0,1,0,0,0,0,76,178,24
+31,Certain infectious and parasitic diseases,2,3,3,388,15,9,50,302585,99,0,1,0,0,0,0,76,178,24
+28, dental consultation,2,2,3,225,26,9,28,302585,99,0,1,1,0,0,2,69,169,24
+28,medical consultation,2,3,3,225,26,9,28,302585,99,0,1,1,0,0,2,69,169,24
+22,medical consultation,2,3,3,179,26,9,30,302585,99,0,3,0,0,0,0,56,171,19
+27,medical consultation,2,3,3,184,42,7,27,302585,99,0,1,0,0,0,0,58,167,21
+28,laboratory examination,2,5,3,225,26,9,28,302585,99,0,1,1,0,0,2,69,169,24
+18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",2,2,3,330,16,4,28,302585,99,0,2,0,0,0,0,84,182,25
+18,medical consultation,2,3,3,330,16,4,28,302585,99,0,2,0,0,0,0,84,182,25
+28,medical consultation,2,4,3,225,26,9,28,302585,99,0,1,1,0,0,2,69,169,24
+6,"Injury, poisoning and certain other consequences of external causes",2,5,3,189,29,13,33,302585,99,0,1,2,0,0,2,69,167,25
+19, dental consultation,3,3,4,291,50,12,32,343253,95,0,1,0,1,0,0,65,169,23
+20,"Injury, poisoning and certain other consequences of external causes",3,3,4,260,50,11,36,343253,95,0,1,4,1,0,0,65,168,23
+30,"Injury, poisoning and certain other consequences of external causes",3,3,4,157,27,6,29,343253,95,0,1,0,1,1,0,75,185,22
+17,"Congenital malformations, deformations and chromosomal abnormalities",3,3,4,179,22,17,40,343253,95,0,2,2,0,1,0,63,170,22
+15,patient follow-up,3,4,4,291,31,12,40,343253,95,0,1,1,1,0,1,73,171,25
+20,Diseases of the musculoskeletal system and connective tissue,3,4,4,260,50,11,36,343253,95,0,1,4,1,0,0,65,168,23
+22,Diseases of the musculoskeletal system and connective tissue,3,5,4,179,26,9,30,343253,95,0,3,0,0,0,0,56,171,19
+33,Diseases of the genitourinary system,3,6,4,248,25,14,47,343253,95,0,1,2,0,0,1,86,165,32
+20,Diseases of the musculoskeletal system and connective tissue,3,6,4,260,50,11,36,343253,95,0,1,4,1,0,0,65,168,23
+17,Diseases of the digestive system,3,2,4,179,22,17,40,343253,95,0,2,2,0,1,0,63,170,22
+14,Certain infectious and parasitic diseases,3,2,4,155,12,14,34,343253,95,0,1,2,1,0,0,95,196,25
+20,physiotherapy,3,2,4,260,50,11,36,343253,95,0,1,4,1,0,0,65,168,23
+14,Diseases of the musculoskeletal system and connective tissue,3,3,4,155,12,14,34,343253,95,0,1,2,1,0,0,95,196,25
+11,Diseases of the nervous system,3,5,4,289,36,13,33,343253,95,0,1,2,1,0,1,90,172,30
+17,Diseases of the ear and mastoid process,3,5,4,179,22,17,40,343253,95,0,2,2,0,1,0,63,170,22
+20, dental consultation,3,6,4,260,50,11,36,343253,95,0,1,4,1,0,0,65,168,23
+28,medical consultation,3,6,4,225,26,9,28,343253,95,0,1,1,0,0,2,69,169,24
+7,Diseases of the genitourinary system,3,2,4,279,5,14,39,343253,95,0,1,2,1,1,0,68,168,24
+3,Diseases of the musculoskeletal system and connective tissue,3,3,4,179,51,18,38,343253,95,0,1,0,1,0,0,89,170,31
+28,medical consultation,3,4,4,225,26,9,28,343253,95,0,1,1,0,0,2,69,169,24
+28,Diseases of the digestive system,3,2,4,225,26,9,28,343253,95,0,1,1,0,0,2,69,169,24
+22,Diseases of the musculoskeletal system and connective tissue,3,2,4,179,26,9,30,343253,95,0,3,0,0,0,0,56,171,19
+28,Diseases of the digestive system,3,3,4,225,26,9,28,343253,95,0,1,1,0,0,2,69,169,24
+28,Diseases of the digestive system,3,4,4,225,26,9,28,343253,95,0,1,1,0,0,2,69,169,24
+3,Diseases of the musculoskeletal system and connective tissue,3,4,4,179,51,18,38,343253,95,0,1,0,1,0,0,89,170,31
+7,Diseases of the genitourinary system,3,5,4,279,5,14,39,343253,95,0,1,2,1,1,0,68,168,24
+28, dental consultation,3,6,4,225,26,9,28,343253,95,0,1,1,0,0,2,69,169,24
+33,Diseases of the genitourinary system,3,6,4,248,25,14,47,343253,95,0,1,2,0,0,1,86,165,32
+28, dental consultation,3,2,4,225,26,9,28,343253,95,0,1,1,0,0,2,69,169,24
+15, dental consultation,4,4,4,291,31,12,40,326452,96,0,1,1,1,0,1,73,171,25
+28,medical consultation,4,4,4,225,26,9,28,326452,96,0,1,1,0,0,2,69,169,24
+14, dental consultation,4,3,4,155,12,14,34,326452,96,0,1,2,1,0,0,95,196,25
+24,Diseases of the musculoskeletal system and connective tissue,4,4,4,246,25,16,41,326452,96,0,1,0,1,0,0,67,170,23
+14,medical consultation,4,5,4,155,12,14,34,326452,96,0,1,2,1,0,0,95,196,25
+28, dental consultation,4,6,4,225,26,9,28,326452,96,0,1,1,0,0,2,69,169,24
+20, dental consultation,4,6,4,260,50,11,36,326452,96,0,1,4,1,0,0,65,168,23
+3,Diseases of the musculoskeletal system and connective tissue,4,4,4,179,51,18,38,326452,96,0,1,0,1,0,0,89,170,31
+36,medical consultation,4,5,4,118,13,18,50,326452,96,0,1,1,1,0,0,98,178,31
+15,medical consultation,4,6,4,291,31,12,40,326452,96,0,1,1,1,0,1,73,171,25
+24,Diseases of the genitourinary system,4,6,4,246,25,16,41,326452,96,0,1,0,1,0,0,67,170,23
+15, dental consultation,4,6,4,291,31,12,40,326452,96,0,1,1,1,0,1,73,171,25
+33, dental consultation,4,6,4,248,25,14,47,326452,96,0,1,2,0,0,1,86,165,32
+20,"Injury, poisoning and certain other consequences of external causes",4,6,4,260,50,11,36,326452,96,0,1,4,1,0,0,65,168,23
+11,"Injury, poisoning and certain other consequences of external causes",4,3,4,289,36,13,33,326452,96,0,1,2,1,0,1,90,172,30
+14,Diseases of the skin and subcutaneous tissue,4,4,4,155,12,14,34,326452,96,0,1,2,1,0,0,95,196,25
+23,"Injury, poisoning and certain other consequences of external causes",4,4,4,378,49,11,36,326452,96,0,1,2,0,1,4,65,174,21
+11,Diseases of the musculoskeletal system and connective tissue,4,5,4,289,36,13,33,326452,96,0,1,2,1,0,1,90,172,30
+1,Diseases of the eye and adnexa,4,6,4,235,11,14,37,326452,96,0,3,1,0,0,1,88,172,29
+2,with no reason,4,2,4,235,29,12,48,326452,96,1,1,1,0,1,5,88,163,33
+11,Diseases of the musculoskeletal system and connective tissue,5,4,4,289,36,13,33,378884,92,0,1,2,1,0,1,90,172,30
+14, dental consultation,5,5,4,155,12,14,34,378884,92,0,1,2,1,0,0,95,196,25
+14, dental consultation,5,2,4,155,12,14,34,378884,92,0,1,2,1,0,0,95,196,25
+3,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",5,3,4,179,51,18,38,378884,92,0,1,0,1,0,0,89,170,31
+28,"Injury, poisoning and certain other consequences of external causes",5,3,4,225,26,9,28,378884,92,0,1,1,0,0,2,69,169,24
+27,Diseases of the eye and adnexa,5,4,4,184,42,7,27,378884,92,0,1,0,0,0,0,58,167,21
+14, dental consultation,5,2,4,155,12,14,34,378884,92,0,1,2,1,0,0,95,196,25
+3,Diseases of the skin and subcutaneous tissue,5,3,4,179,51,18,38,378884,92,0,1,0,1,0,0,89,170,31
+11,Diseases of the musculoskeletal system and connective tissue,5,4,4,289,36,13,33,378884,92,0,1,2,1,0,1,90,172,30
+7,with no reason,5,4,4,279,5,14,39,378884,92,1,1,2,1,1,0,68,168,24
+18,with no reason,5,4,4,330,16,4,28,378884,92,1,2,0,0,0,0,84,182,25
+23,with no reason,5,4,4,378,49,11,36,378884,92,1,1,2,0,1,4,65,174,21
+31,with no reason,5,4,4,388,15,9,50,378884,92,1,1,0,0,0,0,76,178,24
+3,Diseases of the digestive system,5,3,4,179,51,18,38,378884,92,0,1,0,1,0,0,89,170,31
+36,Diseases of the musculoskeletal system and connective tissue,5,4,4,118,13,18,50,378884,92,0,1,1,1,0,0,98,178,31
+10,patient follow-up,5,6,4,361,52,3,28,378884,92,0,1,1,1,0,4,80,172,27
+24,"Injury, poisoning and certain other consequences of external causes",6,2,1,246,25,16,41,377550,94,0,1,0,1,0,0,67,170,23
+10,patient follow-up,6,2,1,361,52,3,28,377550,94,0,1,1,1,0,4,80,172,27
+24,Diseases of the respiratory system,6,3,1,246,25,16,41,377550,94,0,1,0,1,0,0,67,170,23
+15,medical consultation,6,5,1,291,31,12,40,377550,94,0,1,1,1,0,1,73,171,25
+24,Diseases of the respiratory system,6,6,1,246,25,16,41,377550,94,0,1,0,1,0,0,67,170,23
+3,Diseases of the digestive system,6,2,1,179,51,18,38,377550,94,0,1,0,1,0,0,89,170,31
+14,medical consultation,6,2,1,155,12,14,34,377550,94,0,1,2,1,0,0,95,196,25
+24,Diseases of the respiratory system,6,2,1,246,25,16,41,377550,94,0,1,0,1,0,0,67,170,23
+36,Diseases of the musculoskeletal system and connective tissue,6,4,1,118,13,18,50,377550,94,0,1,1,1,0,0,98,178,31
+1,Diseases of the musculoskeletal system and connective tissue,6,6,1,235,11,14,37,377550,94,0,3,1,0,0,1,88,172,29
+36,medical consultation,6,3,1,118,13,18,50,377550,94,0,1,1,1,0,0,98,178,31
+36,Diseases of the musculoskeletal system and connective tissue,6,4,1,118,13,18,50,377550,94,0,1,1,1,0,0,98,178,31
+23,patient follow-up,6,5,1,378,49,11,36,377550,94,0,1,2,0,1,4,65,174,21
+3,Diseases of the digestive system,6,6,1,179,51,18,38,377550,94,0,1,0,1,0,0,89,170,31
+32, dental consultation,6,2,1,289,48,29,49,377550,94,0,1,0,0,0,2,108,172,36
+28, dental consultation,6,5,1,225,26,9,28,377550,94,0,1,1,0,0,2,69,169,24
+14,"Injury, poisoning and certain other consequences of external causes",7,3,1,155,12,14,34,275312,98,0,1,2,1,0,0,95,196,25
+36,Certain infectious and parasitic diseases,7,4,1,118,13,18,50,275312,98,0,1,1,1,0,0,98,178,31
+34,Mental and behavioural disorders,7,6,1,118,10,10,37,275312,98,0,1,0,0,0,0,83,172,28
+34,physiotherapy,7,6,1,118,10,10,37,275312,98,0,1,0,0,0,0,83,172,28
+18,physiotherapy,7,3,1,330,16,4,28,275312,98,0,2,0,0,0,0,84,182,25
+22,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",7,5,1,179,26,9,30,275312,98,0,3,0,0,0,0,56,171,19
+14,laboratory examination,7,6,1,155,12,14,34,275312,98,0,1,2,1,0,0,95,196,25
+18,Certain infectious and parasitic diseases,7,2,1,330,16,4,28,275312,98,0,2,0,0,0,0,84,182,25
+18,Certain infectious and parasitic diseases,7,3,1,330,16,4,28,275312,98,0,2,0,0,0,0,84,182,25
+30,laboratory examination,7,2,1,157,27,6,29,275312,98,0,1,0,1,1,0,75,185,22
+10,patient follow-up,7,3,1,361,52,3,28,275312,98,0,1,1,1,0,4,80,172,27
+11,physiotherapy,7,4,1,289,36,13,33,275312,98,0,1,2,1,0,1,90,172,30
+3,physiotherapy,7,5,1,179,51,18,38,275312,98,0,1,0,1,0,0,89,170,31
+11,"Injury, poisoning and certain other consequences of external causes",7,2,1,289,36,13,33,275312,98,0,1,2,1,0,1,90,172,30
+11,"Injury, poisoning and certain other consequences of external causes",7,5,1,289,36,13,33,275312,98,0,1,2,1,0,1,90,172,30
+20,with no reason,7,5,1,260,50,11,36,275312,98,1,1,4,1,0,0,65,168,23
+11,"Injury, poisoning and certain other consequences of external causes",8,6,1,289,36,13,33,265615,94,0,1,2,1,0,1,90,172,30
+30,"Injury, poisoning and certain other consequences of external causes",8,6,1,157,27,6,29,265615,94,0,1,0,1,1,0,75,185,22
+11,medical consultation,8,2,1,289,36,13,33,265615,94,0,1,2,1,0,1,90,172,30
+9,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,3,1,228,14,16,58,265615,94,0,1,2,0,0,1,65,172,22
+26,Diseases of the musculoskeletal system and connective tissue,8,5,1,300,26,13,43,265615,94,0,1,2,1,1,1,77,175,25
+26,Diseases of the genitourinary system,8,5,1,300,26,13,43,265615,94,0,1,2,1,1,1,77,175,25
+20, dental consultation,8,6,1,260,50,11,36,265615,94,0,1,4,1,0,0,65,168,23
+11,medical consultation,8,3,1,289,36,13,33,265615,94,0,1,2,1,0,1,90,172,30
+33,medical consultation,8,4,1,248,25,14,47,265615,94,0,1,2,0,0,1,86,165,32
+21,Diseases of the digestive system,8,5,1,268,11,8,33,265615,94,0,2,0,0,0,0,79,178,25
+22,medical consultation,8,5,1,179,26,9,30,265615,94,0,3,0,0,0,0,56,171,19
+36,Diseases of the musculoskeletal system and connective tissue,8,5,1,118,13,18,50,265615,94,0,1,1,1,0,0,98,178,31
+33,laboratory examination,8,2,1,248,25,14,47,265615,94,0,1,2,0,0,1,86,165,32
+1,medical consultation,8,3,1,235,11,14,37,265615,94,0,3,1,0,0,1,88,172,29
+36,medical consultation,8,5,1,118,13,18,50,265615,94,0,1,1,1,0,0,98,178,31
+1,"Injury, poisoning and certain other consequences of external causes",8,5,1,235,11,14,37,265615,94,0,3,1,0,0,1,88,172,29
+10,Diseases of the ear and mastoid process,8,3,1,361,52,3,28,265615,94,0,1,1,1,0,4,80,172,27
+27,Diseases of the nervous system,8,4,1,184,42,7,27,265615,94,0,1,0,0,0,0,58,167,21
+3,Diseases of the digestive system,9,2,2,179,51,18,38,294217,81,0,1,0,1,0,0,89,170,31
+3,medical consultation,9,6,2,179,51,18,38,294217,81,0,1,0,1,0,0,89,170,31
+11,"Injury, poisoning and certain other consequences of external causes",9,4,2,289,36,13,33,294217,81,0,1,2,1,0,1,90,172,30
+5,with no reason,9,5,2,235,20,13,43,294217,81,1,1,1,1,0,0,106,167,38
+24,Diseases of the circulatory system,9,2,2,246,25,16,41,294217,81,0,1,0,1,0,0,67,170,23
+15, dental consultation,9,3,2,291,31,12,40,294217,81,0,1,1,1,0,1,73,171,25
+8,with no reason,9,3,2,231,35,14,39,294217,81,1,1,2,1,0,2,100,170,35
+19,with no reason,9,3,2,291,50,12,32,294217,81,1,1,0,1,0,0,65,169,23
+3,Diseases of the musculoskeletal system and connective tissue,9,4,2,179,51,18,38,294217,81,0,1,0,1,0,0,89,170,31
+24,Diseases of the circulatory system,9,4,2,246,25,16,41,294217,81,0,1,0,1,0,0,67,170,23
+3,medical consultation,9,5,2,179,51,18,38,294217,81,0,1,0,1,0,0,89,170,31
+15, dental consultation,9,6,2,291,31,12,40,294217,81,0,1,1,1,0,1,73,171,25
+20, dental consultation,9,6,2,260,50,11,36,294217,81,0,1,4,1,0,0,65,168,23
+5,physiotherapy,9,4,2,235,20,13,43,294217,81,0,1,1,1,0,0,106,167,38
+36, dental consultation,9,5,2,118,13,18,50,294217,81,0,1,1,1,0,0,98,178,31
+5,with no reason,9,5,2,235,20,13,43,294217,81,1,1,1,1,0,0,106,167,38
+15, dental consultation,9,6,2,291,31,12,40,294217,81,0,1,1,1,0,1,73,171,25
+15,Diseases of the eye and adnexa,9,2,2,291,31,12,40,294217,81,0,1,1,1,0,1,73,171,25
+3,Diseases of the musculoskeletal system and connective tissue,9,2,2,179,51,18,38,294217,81,0,1,0,1,0,0,89,170,31
+11,blood donation,10,2,2,289,36,13,33,265017,88,0,1,2,1,0,1,90,172,30
+1,physiotherapy,10,2,2,235,11,14,37,265017,88,0,3,1,0,0,1,88,172,29
+11,physiotherapy,10,2,2,289,36,13,33,265017,88,0,1,2,1,0,1,90,172,30
+11,patient follow-up,10,6,2,289,36,13,33,265017,88,0,1,2,1,0,1,90,172,30
+36,with no reason,10,6,2,118,13,18,50,265017,88,1,1,1,1,0,0,98,178,31
+33,with no reason,10,6,2,248,25,14,47,265017,88,1,1,2,0,0,1,86,165,32
+22,Certain infectious and parasitic diseases,10,2,2,179,26,9,30,265017,88,0,3,0,0,0,0,56,171,19
+34,Diseases of the eye and adnexa,10,2,2,118,10,10,37,265017,88,0,1,0,0,0,0,83,172,28
+13,patient follow-up,10,2,2,369,17,12,31,265017,88,0,1,3,1,0,0,70,169,25
+3, dental consultation,10,4,2,179,51,18,38,265017,88,0,1,0,1,0,0,89,170,31
+22,Certain infectious and parasitic diseases,10,4,2,179,26,9,30,265017,88,0,3,0,0,0,0,56,171,19
+5,with no reason,10,4,2,235,20,13,43,265017,88,1,1,1,1,0,0,106,167,38
+11,"Injury, poisoning and certain other consequences of external causes",10,5,2,289,36,13,33,265017,88,0,1,2,1,0,1,90,172,30
+20, dental consultation,10,6,2,260,50,11,36,265017,88,0,1,4,1,0,0,65,168,23
+5,with no reason,10,6,2,235,20,13,43,265017,88,1,1,1,1,0,0,106,167,38
+5,medical consultation,10,2,2,235,20,13,43,265017,88,0,1,1,1,0,0,106,167,38
+5,medical consultation,10,2,2,235,20,13,43,265017,88,0,1,1,1,0,0,106,167,38
+36, dental consultation,10,3,2,118,13,18,50,265017,88,0,1,1,1,0,0,98,178,31
+15, dental consultation,10,3,2,291,31,12,40,265017,88,0,1,1,1,0,1,73,171,25
+22,medical consultation,10,5,2,179,26,9,30,265017,88,0,3,0,0,0,0,56,171,19
+36, dental consultation,10,5,2,118,13,18,50,265017,88,0,1,1,1,0,0,98,178,31
+10,Diseases of the respiratory system,10,2,2,361,52,3,28,265017,88,0,1,1,1,0,4,80,172,27
+20,with no reason,10,3,2,260,50,11,36,265017,88,1,1,4,1,0,0,65,168,23
+15,with no reason,10,3,2,291,31,12,40,265017,88,1,1,1,1,0,1,73,171,25
+30,with no reason,10,3,2,157,27,6,29,265017,88,1,1,0,1,1,0,75,185,22
+22,Certain infectious and parasitic diseases,10,4,2,179,26,9,30,265017,88,0,3,0,0,0,0,56,171,19
+22,Diseases of the eye and adnexa,10,4,2,179,26,9,30,265017,88,0,3,0,0,0,0,56,171,19
+36,medical consultation,10,5,2,118,13,18,50,265017,88,0,1,1,1,0,0,98,178,31
+34,Diseases of the digestive system,11,2,2,118,10,10,37,284031,97,0,1,0,0,0,0,83,172,28
+33,medical consultation,11,2,2,248,25,14,47,284031,97,0,1,2,0,0,1,86,165,32
+3,Diseases of the nervous system,11,3,2,179,51,18,38,284031,97,0,1,0,1,0,0,89,170,31
+20, dental consultation,11,6,2,260,50,11,36,284031,97,0,1,4,1,0,0,65,168,23
+15,medical consultation,11,2,2,291,31,12,40,284031,97,0,1,1,1,0,1,73,171,25
+23,Certain infectious and parasitic diseases,11,2,2,378,49,11,36,284031,97,0,1,2,0,1,4,65,174,21
+14,Diseases of the digestive system,11,2,2,155,12,14,34,284031,97,0,1,2,1,0,0,95,196,25
+5,physiotherapy,11,2,2,235,20,13,43,284031,97,0,1,1,1,0,0,106,167,38
+18,with no reason,11,3,2,330,16,4,28,284031,97,1,2,0,0,0,0,84,182,25
+1,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",11,4,2,235,11,14,37,284031,97,0,3,1,0,0,1,88,172,29
+34,Diseases of the digestive system,11,4,2,118,10,10,37,284031,97,0,1,0,0,0,0,83,172,28
+1,laboratory examination,11,5,2,235,11,14,37,284031,97,0,3,1,0,0,1,88,172,29
+3, dental consultation,11,5,2,179,51,18,38,284031,97,0,1,0,1,0,0,89,170,31
+24,Diseases of the musculoskeletal system and connective tissue,11,6,2,246,25,16,41,284031,97,0,1,0,1,0,0,67,170,23
+15,Diseases of the skin and subcutaneous tissue,11,6,2,291,31,12,40,284031,97,0,1,1,1,0,1,73,171,25
+24,Diseases of the musculoskeletal system and connective tissue,11,2,2,246,25,16,41,284031,97,0,1,0,1,0,0,67,170,23
+3, dental consultation,11,3,2,179,51,18,38,284031,97,0,1,0,1,0,0,89,170,31
+20,Diseases of the respiratory system,11,4,2,260,50,11,36,284031,97,0,1,4,1,0,0,65,168,23
+20,"Pregnancy, childbirth and the puerperium",11,6,2,260,50,11,36,284031,97,0,1,4,1,0,0,65,168,23
+23,with no reason,11,6,2,378,49,11,36,284031,97,1,1,2,0,1,4,65,174,21
+7,with no reason,11,3,2,279,5,14,39,284031,97,1,1,2,1,1,0,68,168,24
+3,medical consultation,11,5,2,179,51,18,38,284031,97,0,1,0,1,0,0,89,170,31
+28,Diseases of the skin and subcutaneous tissue,12,2,3,225,26,9,28,236629,93,0,1,1,0,0,2,69,169,24
+3, dental consultation,12,2,3,179,51,18,38,236629,93,0,1,0,1,0,0,89,170,31
+3, dental consultation,12,2,3,179,51,18,38,236629,93,0,1,0,1,0,0,89,170,31
+1,medical consultation,12,2,3,235,11,14,37,236629,93,0,3,1,0,0,1,88,172,29
+36, dental consultation,12,3,3,118,13,18,50,236629,93,0,1,1,1,0,0,98,178,31
+20, dental consultation,12,6,3,260,50,11,36,236629,93,0,1,4,1,0,0,65,168,23
+24,"Endocrine, nutritional and metabolic diseases",12,5,3,246,25,16,41,236629,93,0,1,0,1,0,0,67,170,23
+3, dental consultation,12,5,3,179,51,18,38,236629,93,0,1,0,1,0,0,89,170,31
+3, dental consultation,12,6,3,179,51,18,38,236629,93,0,1,0,1,0,0,89,170,31
+22,medical consultation,12,3,3,179,26,9,30,236629,93,0,3,0,0,0,0,56,171,19
+34,laboratory examination,12,3,3,118,10,10,37,236629,93,0,1,0,0,0,0,83,172,28
+1,laboratory examination,12,5,3,235,11,14,37,236629,93,0,3,1,0,0,1,88,172,29
+3, dental consultation,12,6,3,179,51,18,38,236629,93,0,1,0,1,0,0,89,170,31
+5,Diseases of the musculoskeletal system and connective tissue,12,3,3,235,20,13,43,236629,93,0,1,1,1,0,0,106,167,38
+1,Diseases of the genitourinary system,12,3,3,235,11,14,37,236629,93,0,3,1,0,0,1,88,172,29
+20,physiotherapy,12,4,3,260,50,11,36,236629,93,0,1,4,1,0,0,65,168,23
+30, dental consultation,12,2,3,157,27,6,29,236629,93,0,1,0,1,1,0,75,185,22
+3, dental consultation,12,2,3,179,51,18,38,236629,93,0,1,0,1,0,0,89,170,31
+11,"Injury, poisoning and certain other consequences of external causes",12,2,3,289,36,13,33,236629,93,0,1,2,1,0,1,90,172,30
+28,medical consultation,1,4,3,225,26,9,28,330061,100,0,1,1,0,0,2,69,169,24
+34,"Injury, poisoning and certain other consequences of external causes",1,2,3,118,10,10,37,330061,100,0,1,0,0,0,0,83,172,28
+14,medical consultation,1,2,3,155,12,14,34,330061,100,0,1,2,1,0,0,95,196,25
+1,Diseases of the musculoskeletal system and connective tissue,1,3,3,235,11,14,37,330061,100,0,3,1,0,0,1,88,172,29
+14,medical consultation,1,3,3,155,12,14,34,330061,100,0,1,2,1,0,0,95,196,25
+11,physiotherapy,1,2,3,289,36,13,33,330061,100,0,1,2,1,0,1,90,172,30
+15,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1,4,3,291,31,12,40,330061,100,0,1,1,1,0,1,73,171,25
+5,physiotherapy,1,2,3,235,20,13,43,330061,100,0,1,1,1,0,0,106,167,38
+36,physiotherapy,1,2,3,118,13,18,50,330061,100,0,1,1,1,0,0,98,178,31
+3, dental consultation,1,4,3,179,51,18,38,330061,100,0,1,0,1,0,0,89,170,31
+3, dental consultation,1,6,3,179,51,18,38,330061,100,0,1,0,1,0,0,89,170,31
+34, dental consultation,2,3,3,118,10,10,37,251818,96,0,1,0,0,0,0,83,172,28
+3,27,2,4,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+28,Diseases of the eye and adnexa,2,4,3,225,26,9,28,251818,96,0,1,1,0,0,2,69,169,24
+11,patient follow-up,2,6,3,289,36,13,33,251818,96,0,1,2,1,0,1,90,172,30
+20, dental consultation,2,6,3,260,50,11,36,251818,96,0,1,4,1,0,0,65,168,23
+3,medical consultation,2,6,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+3,27,2,2,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+3,27,2,4,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+3,Diseases of the respiratory system,2,5,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+24,physiotherapy,2,5,3,246,25,16,41,251818,96,0,1,0,1,0,0,67,170,23
+3,27,2,6,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+6,patient follow-up,2,2,3,189,29,13,33,251818,96,0,1,2,0,0,2,69,167,25
+3,27,2,2,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+24,medical consultation,2,3,3,246,25,16,41,251818,96,0,1,0,1,0,0,67,170,23
+15,medical consultation,2,3,3,291,31,12,40,251818,96,0,1,1,1,0,1,73,171,25
+30,Diseases of the digestive system,2,4,3,157,27,6,29,251818,96,0,1,0,1,1,0,75,185,22
+3,27,2,4,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+3,27,2,6,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+24,Diseases of the respiratory system,2,6,3,246,25,16,41,251818,96,0,1,0,1,0,0,67,170,23
+3,27,2,4,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+3,27,2,6,3,179,51,18,38,251818,96,0,1,0,1,0,0,89,170,31
+34,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",3,3,4,118,10,10,37,244387,98,0,1,0,0,0,0,83,172,28
+24,"Injury, poisoning and certain other consequences of external causes",3,4,4,246,25,16,41,244387,98,0,1,0,1,0,0,67,170,23
+24, dental consultation,3,6,4,246,25,16,41,244387,98,0,1,0,1,0,0,67,170,23
+20, dental consultation,3,6,4,260,50,11,36,244387,98,0,1,4,1,0,0,65,168,23
+3, dental consultation,3,2,4,179,51,18,38,244387,98,0,1,0,1,0,0,89,170,31
+1,patient follow-up,3,2,4,235,11,14,37,244387,98,0,3,1,0,0,1,88,172,29
+17,patient follow-up,3,3,4,179,22,17,40,244387,98,0,2,2,0,1,0,63,170,22
+23,patient follow-up,3,3,4,378,49,11,36,244387,98,0,1,2,0,1,4,65,174,21
+3, dental consultation,3,2,4,179,51,18,38,244387,98,0,1,0,1,0,0,89,170,31
+10,patient follow-up,3,4,4,361,52,3,28,244387,98,0,1,1,1,0,4,80,172,27
+13,with no reason,3,4,4,369,17,12,31,244387,98,1,1,3,1,0,0,70,169,25
+1,Factors influencing health status and contact with health services,3,5,4,235,11,14,37,244387,98,0,3,1,0,0,1,88,172,29
+36,medical consultation,3,6,4,118,13,18,50,244387,98,0,1,1,1,0,0,98,178,31
+36,Diseases of the genitourinary system,3,3,4,118,13,18,50,244387,98,0,1,1,1,0,0,98,178,31
+36,Diseases of the musculoskeletal system and connective tissue,3,4,4,118,13,18,50,244387,98,0,1,1,1,0,0,98,178,31
+1,with no reason,3,5,4,235,11,14,37,244387,98,1,3,1,0,0,1,88,172,29
+24,with no reason,3,5,4,246,25,16,41,244387,98,1,1,0,1,0,0,67,170,23
+36,with no reason,3,5,4,118,13,18,50,244387,98,1,1,1,1,0,0,98,178,31
+3, dental consultation,3,6,4,179,51,18,38,244387,98,0,1,0,1,0,0,89,170,31
+11,patient follow-up,3,6,4,289,36,13,33,244387,98,0,1,2,1,0,1,90,172,30
+20,"Injury, poisoning and certain other consequences of external causes",3,2,4,260,50,11,36,244387,98,0,1,4,1,0,0,65,168,23
+24, dental consultation,3,3,4,246,25,16,41,244387,98,0,1,0,1,0,0,67,170,23
+3, dental consultation,4,4,4,179,51,18,38,239409,98,0,1,0,1,0,0,89,170,31
+20, dental consultation,4,6,4,260,50,11,36,239409,98,0,1,4,1,0,0,65,168,23
+18,physiotherapy,4,6,4,330,16,4,28,239409,98,0,2,0,0,0,0,84,182,25
+13,patient follow-up,4,2,4,369,17,12,31,239409,98,0,1,3,1,0,0,70,169,25
+33,physiotherapy,4,2,4,248,25,14,47,239409,98,0,1,2,0,0,1,86,165,32
+18,medical consultation,4,4,4,330,16,4,28,239409,98,0,2,0,0,0,0,84,182,25
+3, dental consultation,4,4,4,179,51,18,38,239409,98,0,1,0,1,0,0,89,170,31
+36,medical consultation,4,2,4,118,13,18,50,239409,98,0,1,1,1,0,0,98,178,31
+36,Diseases of the musculoskeletal system and connective tissue,4,4,4,118,13,18,50,239409,98,0,1,1,1,0,0,98,178,31
+26, dental consultation,4,6,4,300,26,13,43,239409,98,0,1,2,1,1,1,77,175,25
+20, dental consultation,4,6,4,260,50,11,36,239409,98,0,1,4,1,0,0,65,168,23
+3, dental consultation,4,2,4,179,51,18,38,239409,98,0,1,0,1,0,0,89,170,31
+34,Diseases of the digestive system,4,4,4,118,10,10,37,239409,98,0,1,0,0,0,0,83,172,28
+5,Diseases of the musculoskeletal system and connective tissue,5,2,4,235,20,13,43,246074,99,0,1,1,1,0,0,106,167,38
+33,medical consultation,5,4,4,248,25,14,47,246074,99,0,1,2,0,0,1,86,165,32
+13,Diseases of the respiratory system,5,2,4,369,17,12,31,246074,99,0,1,3,1,0,0,70,169,25
+22,medical consultation,5,4,4,179,26,9,30,246074,99,0,3,0,0,0,0,56,171,19
+3, dental consultation,5,4,4,179,51,18,38,246074,99,0,1,0,1,0,0,89,170,31
+10,medical consultation,5,5,4,361,52,3,28,246074,99,0,1,1,1,0,4,80,172,27
+20, dental consultation,5,6,4,260,50,11,36,246074,99,0,1,4,1,0,0,65,168,23
+17,Diseases of the digestive system,5,2,4,179,22,17,40,246074,99,0,2,2,0,1,0,63,170,22
+17,Diseases of the ear and mastoid process,5,2,4,179,22,17,40,246074,99,0,2,2,0,1,0,63,170,22
+9,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",5,4,4,228,14,16,58,246074,99,0,1,2,0,0,1,65,172,22
+28,laboratory examination,5,4,4,225,26,9,28,246074,99,0,1,1,0,0,2,69,169,24
+18,Diseases of the musculoskeletal system and connective tissue,5,6,4,330,16,4,28,246074,99,0,2,0,0,0,0,84,182,25
+22,laboratory examination,5,2,4,179,26,9,30,246074,99,0,3,0,0,0,0,56,171,19
+34, dental consultation,5,2,4,118,10,10,37,246074,99,0,1,0,0,0,0,83,172,28
+1,Certain infectious and parasitic diseases,5,2,4,235,11,14,37,246074,99,0,3,1,0,0,1,88,172,29
+22,medical consultation,5,4,4,179,26,9,30,246074,99,0,3,0,0,0,0,56,171,19
+34,medical consultation,6,2,1,118,10,10,37,253957,95,0,1,0,0,0,0,83,172,28
+3, dental consultation,6,2,1,179,51,18,38,253957,95,0,1,0,1,0,0,89,170,31
+34, dental consultation,6,3,1,118,10,10,37,253957,95,0,1,0,0,0,0,83,172,28
+28,medical consultation,6,5,1,225,26,9,28,253957,95,0,1,1,0,0,2,69,169,24
+20, dental consultation,6,6,1,260,50,11,36,253957,95,0,1,4,1,0,0,65,168,23
+3,with no reason,6,6,1,179,51,18,38,253957,95,1,1,0,1,0,0,89,170,31
+15,Diseases of the musculoskeletal system and connective tissue,6,2,1,291,31,12,40,253957,95,0,1,1,1,0,1,73,171,25
+3, dental consultation,6,2,1,179,51,18,38,253957,95,0,1,0,1,0,0,89,170,31
+24, dental consultation,6,3,1,246,25,16,41,253957,95,0,1,0,1,0,0,67,170,23
+3, dental consultation,6,2,1,179,51,18,38,253957,95,0,1,0,1,0,0,89,170,31
+5,physiotherapy,6,3,1,235,20,13,43,253957,95,0,1,1,1,0,0,106,167,38
+3, dental consultation,6,2,1,179,51,18,38,253957,95,0,1,0,1,0,0,89,170,31
+28,medical consultation,6,4,1,225,26,9,28,253957,95,0,1,1,0,0,2,69,169,24
+36,medical consultation,6,4,1,118,13,18,50,253957,95,0,1,1,1,0,0,98,178,31
+3,Mental and behavioural disorders,6,4,1,179,51,18,38,253957,95,0,1,0,1,0,0,89,170,31
+22,Factors influencing health status and contact with health services,6,4,1,179,26,9,30,253957,95,0,3,0,0,0,0,56,171,19
+24, dental consultation,6,6,1,246,25,16,41,253957,95,0,1,0,1,0,0,67,170,23
+18,Diseases of the digestive system,6,3,1,330,16,4,28,253957,95,0,2,0,0,0,0,84,182,25
+1,Diseases of the musculoskeletal system and connective tissue,6,3,1,235,11,14,37,253957,95,0,3,1,0,0,1,88,172,29
+22,medical consultation,7,5,1,179,26,9,30,230290,92,0,3,0,0,0,0,56,171,19
+28,laboratory examination,7,5,1,225,26,9,28,230290,92,0,1,1,0,0,2,69,169,24
+20,Diseases of the musculoskeletal system and connective tissue,7,6,1,260,50,11,36,230290,92,0,1,4,1,0,0,65,168,23
+21,Diseases of the eye and adnexa,7,2,1,268,11,8,33,230290,92,0,2,0,0,0,0,79,178,25
+18,laboratory examination,7,6,1,330,16,4,28,230290,92,0,2,0,0,0,0,84,182,25
+34,physiotherapy,7,6,1,118,10,10,37,230290,92,0,1,0,0,0,0,83,172,28
+20,physiotherapy,7,2,1,260,50,11,36,230290,92,0,1,4,1,0,0,65,168,23
+34, dental consultation,7,3,1,118,10,10,37,230290,92,0,1,0,0,0,0,83,172,28
+26,"Pregnancy, childbirth and the puerperium",7,2,1,300,26,13,43,230290,92,0,1,2,1,1,1,77,175,25
+2,medical consultation,7,2,1,235,29,12,48,230290,92,0,1,1,0,1,5,88,163,33
+24, dental consultation,7,3,1,246,25,16,41,230290,92,0,1,0,1,0,0,67,170,23
+28,Diseases of the circulatory system,7,3,1,225,26,9,28,230290,92,0,1,1,0,0,2,69,169,24
+3, dental consultation,7,3,1,179,51,18,38,230290,92,0,1,0,1,0,0,89,170,31
+36,medical consultation,7,6,1,118,13,18,50,230290,92,0,1,1,1,0,0,98,178,31
+10,patient follow-up,7,6,1,361,52,3,28,230290,92,0,1,1,1,0,4,80,172,27
+11,patient follow-up,7,2,1,289,36,13,33,230290,92,0,1,2,1,0,1,90,172,30
+5,physiotherapy,7,2,1,235,20,13,43,230290,92,0,1,1,1,0,0,106,167,38
+24, dental consultation,7,3,1,246,25,16,41,230290,92,0,1,0,1,0,0,67,170,23
+15, dental consultation,7,5,1,291,31,12,40,230290,92,0,1,1,1,0,1,73,171,25
+7,medical consultation,7,5,1,279,5,14,39,230290,92,0,1,2,1,1,0,68,168,24
+3,laboratory examination,8,5,1,179,51,18,38,249797,93,0,1,0,1,0,0,89,170,31
+17,laboratory examination,8,2,1,179,22,17,40,249797,93,0,2,2,0,1,0,63,170,22
+24, dental consultation,8,3,1,246,25,16,41,249797,93,0,1,0,1,0,0,67,170,23
+34, dental consultation,8,3,1,118,10,10,37,249797,93,0,1,0,0,0,0,83,172,28
+11,physiotherapy,8,3,1,289,36,13,33,249797,93,0,1,2,1,0,1,90,172,30
+5,physiotherapy,8,3,1,235,20,13,43,249797,93,0,1,1,1,0,0,106,167,38
+15, dental consultation,8,5,1,291,31,12,40,249797,93,0,1,1,1,0,1,73,171,25
+3,laboratory examination,8,2,1,179,51,18,38,249797,93,0,1,0,1,0,0,89,170,31
+17,laboratory examination,8,3,1,179,22,17,40,249797,93,0,2,2,0,1,0,63,170,22
+18,medical consultation,8,5,1,330,16,4,28,249797,93,0,2,0,0,0,0,84,182,25
+1,medical consultation,8,3,1,235,11,14,37,249797,93,0,3,1,0,0,1,88,172,29
+24, dental consultation,8,3,1,246,25,16,41,249797,93,0,1,0,1,0,0,67,170,23
+34, dental consultation,8,3,1,118,10,10,37,249797,93,0,1,0,0,0,0,83,172,28
+15, dental consultation,8,5,1,291,31,12,40,249797,93,0,1,1,1,0,1,73,171,25
+20, dental consultation,8,2,1,260,50,11,36,249797,93,0,1,4,1,0,0,65,168,23
+24, dental consultation,9,3,2,246,25,16,41,261756,87,0,1,0,1,0,0,67,170,23
+24, dental consultation,9,3,2,246,25,16,41,261756,87,0,1,0,1,0,0,67,170,23
+34, dental consultation,9,3,2,118,10,10,37,261756,87,0,1,0,0,0,0,83,172,28
+14,medical consultation,9,3,2,155,12,14,34,261756,87,0,1,2,1,0,0,95,196,25
+15, dental consultation,9,5,2,291,31,12,40,261756,87,0,1,1,1,0,1,73,171,25
+22,medical consultation,9,6,2,179,26,9,30,261756,87,0,3,0,0,0,0,56,171,19
+33,medical consultation,9,6,2,248,25,14,47,261756,87,0,1,2,0,0,1,86,165,32
+3,medical consultation,9,2,2,179,51,18,38,261756,87,0,1,0,1,0,0,89,170,31
+28,medical consultation,9,4,2,225,26,9,28,261756,87,0,1,1,0,0,2,69,169,24
+22,medical consultation,9,2,2,179,26,9,30,261756,87,0,3,0,0,0,0,56,171,19
+13,medical consultation,9,3,2,369,17,12,31,261756,87,0,1,3,1,0,0,70,169,25
+10,patient follow-up,9,3,2,361,52,3,28,261756,87,0,1,1,1,0,4,80,172,27
+32,"Endocrine, nutritional and metabolic diseases",10,5,2,289,48,29,49,284853,91,0,1,0,0,0,2,108,172,36
+25,Diseases of the digestive system,10,5,2,235,16,8,32,284853,91,0,3,0,0,0,0,75,178,25
+24,physiotherapy,10,6,2,246,25,16,41,284853,91,0,1,0,1,0,0,67,170,23
+32,Diseases of the genitourinary system,10,4,2,289,48,29,49,284853,91,0,1,0,0,0,2,108,172,36
+15, dental consultation,10,4,2,291,31,12,40,284853,91,0,1,1,1,0,1,73,171,25
+34,medical consultation,10,3,2,118,10,10,37,284853,91,0,1,0,0,0,0,83,172,28
+32,medical consultation,10,5,2,289,48,29,49,284853,91,0,1,0,0,0,2,108,172,36
+15,medical consultation,10,6,2,291,31,12,40,284853,91,0,1,1,1,0,1,73,171,25
+28,medical consultation,10,3,2,225,26,9,28,284853,91,0,1,1,0,0,2,69,169,24
+13,medical consultation,10,3,2,369,17,12,31,284853,91,0,1,3,1,0,0,70,169,25
+13,medical consultation,10,3,2,369,17,12,31,284853,91,0,1,3,1,0,0,70,169,25
+28,medical consultation,10,3,2,225,26,9,28,284853,91,0,1,1,0,0,2,69,169,24
+13,physiotherapy,10,3,2,369,17,12,31,284853,91,0,1,3,1,0,0,70,169,25
+3, dental consultation,10,4,2,179,51,18,38,284853,91,0,1,0,1,0,0,89,170,31
+9,Certain infectious and parasitic diseases,10,4,2,228,14,16,58,284853,91,0,1,2,0,0,1,65,172,22
+15,medical consultation,10,4,2,291,31,12,40,284853,91,0,1,1,1,0,1,73,171,25
+13,Diseases of the respiratory system,10,5,2,369,17,12,31,284853,91,0,1,3,1,0,0,70,169,25
+28,Diseases of the musculoskeletal system and connective tissue,10,5,2,225,26,9,28,284853,91,0,1,1,0,0,2,69,169,24
+13,Diseases of the respiratory system,10,6,2,369,17,12,31,284853,91,0,1,3,1,0,0,70,169,25
+28,Diseases of the respiratory system,10,6,2,225,26,9,28,284853,91,0,1,1,0,0,2,69,169,24
+6,medical consultation,10,2,2,189,29,13,33,284853,91,0,1,2,0,0,2,69,167,25
+25,Diseases of the nervous system,10,2,2,235,16,8,32,284853,91,0,3,0,0,0,0,75,178,25
+33,Diseases of the respiratory system,10,2,2,248,25,14,47,284853,91,0,1,2,0,0,1,86,165,32
+28,with no reason,10,2,2,225,26,9,28,284853,91,1,1,1,0,0,2,69,169,24
+28,Diseases of the musculoskeletal system and connective tissue,10,3,2,225,26,9,28,284853,91,0,1,1,0,0,2,69,169,24
+3,Factors influencing health status and contact with health services,11,3,2,179,51,18,38,268519,93,0,1,0,1,0,0,89,170,31
+34, dental consultation,11,4,2,118,10,10,37,268519,93,0,1,0,0,0,0,83,172,28
+18,Neoplasms,11,4,2,330,16,4,28,268519,93,0,2,0,0,0,0,84,182,25
+3, dental consultation,11,6,2,179,51,18,38,268519,93,0,1,0,1,0,0,89,170,31
+34,Diseases of the circulatory system,11,3,2,118,10,10,37,268519,93,0,1,0,0,0,0,83,172,28
+11,blood donation,11,4,2,289,36,13,33,268519,93,0,1,2,1,0,1,90,172,30
+25,Certain infectious and parasitic diseases,11,6,2,235,16,8,32,268519,93,0,3,0,0,0,0,75,178,25
+28,medical consultation,11,6,2,225,26,9,28,268519,93,0,1,1,0,0,2,69,169,24
+10,patient follow-up,11,3,2,361,52,3,28,268519,93,0,1,1,1,0,4,80,172,27
+15, dental consultation,11,4,2,291,31,12,40,268519,93,0,1,1,1,0,1,73,171,25
+34,Diseases of the musculoskeletal system and connective tissue,11,5,2,118,10,10,37,268519,93,0,1,0,0,0,0,83,172,28
+28,Diseases of the genitourinary system,11,5,2,225,26,9,28,268519,93,0,1,1,0,0,2,69,169,24
+3, dental consultation,11,2,2,179,51,18,38,268519,93,0,1,0,1,0,0,89,170,31
+34,medical consultation,11,2,2,118,10,10,37,268519,93,0,1,0,0,0,0,83,172,28
+34,Diseases of the ear and mastoid process,11,3,2,118,10,10,37,268519,93,0,1,0,0,0,0,83,172,28
+28,medical consultation,11,3,2,225,26,9,28,268519,93,0,1,1,0,0,2,69,169,24
+15,with no reason,11,3,2,291,31,12,40,268519,93,1,1,1,1,0,1,73,171,25
+11,with no reason,11,4,2,289,36,13,33,268519,93,1,1,2,1,0,1,90,172,30
+33,Diseases of the genitourinary system,11,5,2,248,25,14,47,268519,93,0,1,2,0,0,1,86,165,32
+5,with no reason,11,5,2,235,20,13,43,268519,93,1,1,1,1,0,0,106,167,38
+28,medical consultation,11,6,2,225,26,9,28,268519,93,0,1,1,0,0,2,69,169,24
+13,physiotherapy,11,6,2,369,17,12,31,268519,93,0,1,3,1,0,0,70,169,25
+10, dental consultation,11,2,2,361,52,3,28,268519,93,0,1,1,1,0,4,80,172,27
+3,Diseases of the musculoskeletal system and connective tissue,12,3,3,179,51,18,38,280549,98,0,1,0,1,0,0,89,170,31
+15, dental consultation,12,4,3,291,31,12,40,280549,98,0,1,1,1,0,1,73,171,25
+28,medical consultation,12,4,3,225,26,9,28,280549,98,0,1,1,0,0,2,69,169,24
+22,Diseases of the musculoskeletal system and connective tissue,12,6,3,179,26,9,30,280549,98,0,3,0,0,0,0,56,171,19
+28,medical consultation,12,6,3,225,26,9,28,280549,98,0,1,1,0,0,2,69,169,24
+28,medical consultation,12,4,3,225,26,9,28,280549,98,0,1,1,0,0,2,69,169,24
+10,Diseases of the genitourinary system,12,5,3,361,52,3,28,280549,98,0,1,1,1,0,4,80,172,27
+17,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,6,3,179,22,17,40,280549,98,0,2,2,0,1,0,63,170,22
+5,physiotherapy,12,6,3,235,20,13,43,280549,98,0,1,1,1,0,0,106,167,38
+12,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,2,3,233,51,1,31,280549,98,0,2,1,1,0,8,68,178,21
+22,Diseases of the musculoskeletal system and connective tissue,12,3,3,179,26,9,30,280549,98,0,3,0,0,0,0,56,171,19
+28,medical consultation,12,3,3,225,26,9,28,280549,98,0,1,1,0,0,2,69,169,24
+28,medical consultation,12,5,3,225,26,9,28,280549,98,0,1,1,0,0,2,69,169,24
+28,medical consultation,12,2,3,225,26,9,28,280549,98,0,1,1,0,0,2,69,169,24
+14,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,3,3,155,12,14,34,280549,98,0,1,2,1,0,0,95,196,25
+22,Diseases of the skin and subcutaneous tissue,1,2,3,179,26,9,30,313532,96,0,3,0,0,0,0,56,171,19
+22,Diseases of the skin and subcutaneous tissue,1,5,3,179,26,9,30,313532,96,0,3,0,0,0,0,56,171,19
+17,laboratory examination,1,5,3,179,22,17,40,313532,96,0,2,2,0,1,0,63,170,22
+17,laboratory examination,1,6,3,179,22,17,40,313532,96,0,2,2,0,1,0,63,170,22
+22,Diseases of the musculoskeletal system and connective tissue,1,2,3,179,26,9,30,313532,96,0,3,0,0,0,0,56,171,19
+17,laboratory examination,1,4,3,179,22,17,40,313532,96,0,2,2,0,1,0,63,170,22
+32,Diseases of the respiratory system,1,5,3,289,48,29,49,313532,96,0,1,0,0,0,2,108,172,36
+17,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,6,3,179,22,17,40,313532,96,0,2,2,0,1,0,63,170,22
+22,27,1,2,3,179,26,9,30,313532,96,0,3,0,0,0,0,56,171,19
+14,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,3,3,155,12,14,34,313532,96,0,1,2,1,0,0,95,196,25
+22,27,1,4,3,179,26,9,30,313532,96,0,3,0,0,0,0,56,171,19
+3,27,1,4,3,179,51,18,38,313532,96,0,1,0,1,0,0,89,170,31
+11,Diseases of the musculoskeletal system and connective tissue,1,4,3,289,36,13,33,313532,96,0,1,2,1,0,1,90,172,30
+3,27,1,5,3,179,51,18,38,313532,96,0,1,0,1,0,0,89,170,31
+3,27,1,6,3,179,51,18,38,313532,96,0,1,0,1,0,0,89,170,31
+3,Diseases of the musculoskeletal system and connective tissue,2,3,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+28,medical consultation,2,3,3,225,26,9,28,264249,97,0,1,1,0,0,2,69,169,24
+33,Certain infectious and parasitic diseases,2,4,3,248,25,14,47,264249,97,0,1,2,0,0,1,86,165,32
+3,27,2,4,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+28, dental consultation,2,5,3,225,26,9,28,264249,97,0,1,1,0,0,2,69,169,24
+3,27,2,5,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+22,27,2,5,3,179,26,9,30,264249,97,0,3,0,0,0,0,56,171,19
+29, dental consultation,2,6,3,225,15,15,41,264249,97,0,4,2,1,0,2,94,182,28
+3,27,2,6,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+12,"Injury, poisoning and certain other consequences of external causes",2,2,3,233,51,1,31,264249,97,0,2,1,1,0,8,68,178,21
+3,27,2,2,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+28,Diseases of the eye and adnexa,2,3,3,225,26,9,28,264249,97,0,1,1,0,0,2,69,169,24
+3,27,2,4,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+3,27,2,5,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+28,laboratory examination,2,5,3,225,26,9,28,264249,97,0,1,1,0,0,2,69,169,24
+22,Diseases of the musculoskeletal system and connective tissue,2,5,3,179,26,9,30,264249,97,0,3,0,0,0,0,56,171,19
+17,medical consultation,2,6,3,179,22,17,40,264249,97,0,2,2,0,1,0,63,170,22
+3,27,2,6,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+12,Diseases of the skin and subcutaneous tissue,2,4,3,233,51,1,31,264249,97,0,2,1,1,0,8,68,178,21
+22,27,2,4,3,179,26,9,30,264249,97,0,3,0,0,0,0,56,171,19
+3,27,2,4,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+3,Diseases of the musculoskeletal system and connective tissue,2,5,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+3,27,2,6,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+14,laboratory examination,2,2,3,155,12,14,34,264249,97,0,1,2,1,0,0,95,196,25
+25,laboratory examination,2,2,3,235,16,8,32,264249,97,0,3,0,0,0,0,75,178,25
+3,27,2,2,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+28,Diseases of the eye and adnexa,2,2,3,225,26,9,28,264249,97,0,1,1,0,0,2,69,169,24
+3,27,2,3,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+33,medical consultation,2,3,3,248,25,14,47,264249,97,0,1,2,0,0,1,86,165,32
+28,laboratory examination,2,3,3,225,26,9,28,264249,97,0,1,1,0,0,2,69,169,24
+3,27,2,4,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+3,27,2,5,3,179,51,18,38,264249,97,0,1,0,1,0,0,89,170,31
+25,laboratory examination,2,6,3,235,16,8,32,264249,97,0,3,0,0,0,0,75,178,25
+3,27,3,2,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+33,medical consultation,3,2,4,248,25,14,47,222196,99,0,1,2,0,0,1,86,165,32
+9,laboratory examination,3,3,4,228,14,16,58,222196,99,0,1,2,0,0,1,65,172,22
+33,laboratory examination,3,3,4,248,25,14,47,222196,99,0,1,2,0,0,1,86,165,32
+9,Diseases of the skin and subcutaneous tissue,3,3,4,228,14,16,58,222196,99,0,1,2,0,0,1,65,172,22
+3,27,3,4,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+28,27,3,5,4,225,26,9,28,222196,99,0,1,1,0,0,2,69,169,24
+3,27,3,5,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+28,laboratory examination,3,5,4,225,26,9,28,222196,99,0,1,1,0,0,2,69,169,24
+22,27,3,6,4,179,26,9,30,222196,99,0,3,0,0,0,0,56,171,19
+25,laboratory examination,3,2,4,235,16,8,32,222196,99,0,3,0,0,0,0,75,178,25
+10,"Injury, poisoning and certain other consequences of external causes",3,2,4,361,52,3,28,222196,99,0,1,1,1,0,4,80,172,27
+3,Diseases of the musculoskeletal system and connective tissue,3,3,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+3,27,3,4,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+3,27,3,5,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+22,27,3,6,4,179,26,9,30,222196,99,0,3,0,0,0,0,56,171,19
+3,Diseases of the respiratory system,3,2,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+33,Diseases of the musculoskeletal system and connective tissue,3,2,4,248,25,14,47,222196,99,0,1,2,0,0,1,86,165,32
+3,27,3,2,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+28,Diseases of the eye and adnexa,3,2,4,225,26,9,28,222196,99,0,1,1,0,0,2,69,169,24
+3,27,3,3,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+11,medical consultation,3,4,4,289,36,13,33,222196,99,0,1,2,1,0,1,90,172,30
+9,laboratory examination,3,4,4,228,14,16,58,222196,99,0,1,2,0,0,1,65,172,22
+3,27,3,4,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+33,medical consultation,3,5,4,248,25,14,47,222196,99,0,1,2,0,0,1,86,165,32
+3,27,3,5,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+22,medical consultation,3,6,4,179,26,9,30,222196,99,0,3,0,0,0,0,56,171,19
+3,27,3,6,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+3,27,3,3,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+16,medical consultation,3,4,4,118,15,24,46,222196,99,0,1,2,1,1,0,75,175,25
+14,Diseases of the musculoskeletal system and connective tissue,3,4,4,155,12,14,34,222196,99,0,1,2,1,0,0,95,196,25
+3,27,3,4,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+3,27,3,5,4,179,51,18,38,222196,99,0,1,0,1,0,0,89,170,31
+22,Diseases of the musculoskeletal system and connective tissue,3,2,4,179,26,9,30,222196,99,0,3,0,0,0,0,56,171,19
+11,"Injury, poisoning and certain other consequences of external causes",3,2,4,289,36,13,33,222196,99,0,1,2,1,0,1,90,172,30
+13,patient follow-up,3,4,4,369,17,12,31,222196,99,0,1,3,1,0,0,70,169,25
+28,Diseases of the musculoskeletal system and connective tissue,4,2,4,225,26,9,28,246288,91,0,1,1,0,0,2,69,169,24
+34,Diseases of the respiratory system,4,2,4,118,10,10,37,246288,91,0,1,0,0,0,0,83,172,28
+10,"Injury, poisoning and certain other consequences of external causes",4,3,4,361,52,3,28,246288,91,0,1,1,1,0,4,80,172,27
+33,"Injury, poisoning and certain other consequences of external causes",4,4,4,248,25,14,47,246288,91,0,1,2,0,0,1,86,165,32
+6,Diseases of the musculoskeletal system and connective tissue,4,5,4,189,29,13,33,246288,91,0,1,2,0,0,2,69,167,25
+22,27,4,6,4,179,26,9,30,246288,91,0,3,0,0,0,0,56,171,19
+13,Diseases of the eye and adnexa,4,2,4,369,17,12,31,246288,91,0,1,3,1,0,0,70,169,25
+17,Certain conditions originating in the perinatal period,4,3,4,179,22,17,40,246288,91,0,2,2,0,1,0,63,170,22
+36,medical consultation,4,3,4,118,13,18,50,246288,91,0,1,1,1,0,0,98,178,31
+10,medical consultation,4,3,4,361,52,3,28,246288,91,0,1,1,1,0,4,80,172,27
+34,Diseases of the respiratory system,4,4,4,118,10,10,37,246288,91,0,1,0,0,0,0,83,172,28
+1,patient follow-up,4,6,4,235,11,14,37,246288,91,0,3,1,0,0,1,88,172,29
+22,27,4,6,4,179,26,9,30,246288,91,0,3,0,0,0,0,56,171,19
+28,"Injury, poisoning and certain other consequences of external causes",4,2,4,225,26,9,28,246288,91,0,1,1,0,0,2,69,169,24
+25,Certain conditions originating in the perinatal period,4,3,4,235,16,8,32,246288,91,0,3,0,0,0,0,75,178,25
+22,27,4,6,4,179,26,9,30,246288,91,0,3,0,0,0,0,56,171,19
+14, dental consultation,4,3,4,155,12,14,34,246288,91,0,1,2,1,0,0,95,196,25
+28,"Injury, poisoning and certain other consequences of external causes",4,5,4,225,26,9,28,246288,91,0,1,1,0,0,2,69,169,24
+36,Diseases of the genitourinary system,4,5,4,118,13,18,50,246288,91,0,1,1,1,0,0,98,178,31
+22,27,4,6,4,179,26,9,30,246288,91,0,3,0,0,0,0,56,171,19
+1,patient follow-up,5,2,4,235,11,14,37,237656,99,0,3,1,0,0,1,88,172,29
+29,"Injury, poisoning and certain other consequences of external causes",5,4,4,225,15,15,41,237656,99,0,4,2,1,0,2,94,182,28
+25, dental consultation,5,4,4,235,16,8,32,237656,99,0,3,0,0,0,0,75,178,25
+34,Diseases of the ear and mastoid process,5,4,4,118,10,10,37,237656,99,0,1,0,0,0,0,83,172,28
+5,physiotherapy,5,4,4,235,20,13,43,237656,99,0,1,1,1,0,0,106,167,38
+22,Diseases of the musculoskeletal system and connective tissue,5,5,4,179,26,9,30,237656,99,0,3,0,0,0,0,56,171,19
+15, dental consultation,5,5,4,291,31,12,40,237656,99,0,1,1,1,0,1,73,171,25
+29,Diseases of the genitourinary system,5,5,4,225,15,15,41,237656,99,0,4,2,1,0,2,94,182,28
+26,"Injury, poisoning and certain other consequences of external causes",5,6,4,300,26,13,43,237656,99,0,1,2,1,1,1,77,175,25
+29,patient follow-up,5,6,4,225,15,15,41,237656,99,0,4,2,1,0,2,94,182,28
+22,27,5,6,4,179,26,9,30,237656,99,0,3,0,0,0,0,56,171,19
+36,medical consultation,5,2,4,118,13,18,50,237656,99,0,1,1,1,0,0,98,178,31
+36,Mental and behavioural disorders,5,3,4,118,13,18,50,237656,99,0,1,1,1,0,0,98,178,31
+34, dental consultation,5,3,4,118,10,10,37,237656,99,0,1,0,0,0,0,83,172,28
+36,with no reason,5,3,4,118,13,18,50,237656,99,1,1,1,1,0,0,98,178,31
+22,27,5,4,4,179,26,9,30,237656,99,0,3,0,0,0,0,56,171,19
+23,with no reason,5,4,4,378,49,11,36,237656,99,1,1,2,0,1,4,65,174,21
+17,Certain conditions originating in the perinatal period,5,6,4,179,22,17,40,237656,99,0,2,2,0,1,0,63,170,22
+14,Diseases of the respiratory system,5,2,4,155,12,14,34,237656,99,0,1,2,1,0,0,95,196,25
+25,Diseases of the respiratory system,5,2,4,235,16,8,32,237656,99,0,3,0,0,0,0,75,178,25
+15,patient follow-up,5,4,4,291,31,12,40,237656,99,0,1,1,1,0,1,73,171,25
+17,Diseases of the respiratory system,5,4,4,179,22,17,40,237656,99,0,2,2,0,1,0,63,170,22
+28,Diseases of the nervous system,5,4,4,225,26,9,28,237656,99,0,1,1,0,0,2,69,169,24
+18,Diseases of the respiratory system,5,5,4,330,16,4,28,237656,99,0,2,0,0,0,0,84,182,25
+25,medical consultation,5,5,4,235,16,8,32,237656,99,0,3,0,0,0,0,75,178,25
+15, dental consultation,5,5,4,291,31,12,40,237656,99,0,1,1,1,0,1,73,171,25
+22,27,5,6,4,179,26,9,30,237656,99,0,3,0,0,0,0,56,171,19
+10,Diseases of the eye and adnexa,5,2,4,361,52,3,28,237656,99,0,1,1,1,0,4,80,172,27
+14,medical consultation,5,4,4,155,12,14,34,237656,99,0,1,2,1,0,0,95,196,25
+17,laboratory examination,5,6,4,179,22,17,40,237656,99,0,2,2,0,1,0,63,170,22
+14,Diseases of the respiratory system,5,6,4,155,12,14,34,237656,99,0,1,2,1,0,0,95,196,25
+28,Diseases of the digestive system,5,2,4,225,26,9,28,237656,99,0,1,1,0,0,2,69,169,24
+16,Diseases of the eye and adnexa,6,4,1,118,15,24,46,275089,96,0,1,2,1,1,0,75,175,25
+22,27,6,4,1,179,26,9,30,275089,96,0,3,0,0,0,0,56,171,19
+34,physiotherapy,6,6,1,118,10,10,37,275089,96,0,1,0,0,0,0,83,172,28
+34,Diseases of the respiratory system,6,4,1,118,10,10,37,275089,96,0,1,0,0,0,0,83,172,28
+23,patient follow-up,6,5,1,378,49,11,36,275089,96,0,1,2,0,1,4,65,174,21
+36,"Injury, poisoning and certain other consequences of external causes",6,5,1,118,13,18,50,275089,96,0,1,1,1,0,0,98,178,31
+12,"Injury, poisoning and certain other consequences of external causes",6,6,1,233,51,1,31,275089,96,0,2,1,1,0,8,68,178,21
+22,27,6,6,1,179,26,9,30,275089,96,0,3,0,0,0,0,56,171,19
+2,with no reason,6,2,1,235,29,12,48,275089,96,1,1,1,0,1,5,88,163,33
+21,with no reason,6,2,1,268,11,8,33,275089,96,1,2,0,0,0,0,79,178,25
+36,"Injury, poisoning and certain other consequences of external causes",6,5,1,118,13,18,50,275089,96,0,1,1,1,0,0,98,178,31
+22,Diseases of the musculoskeletal system and connective tissue,6,5,1,179,26,9,30,275089,96,0,3,0,0,0,0,56,171,19
+15, dental consultation,6,5,1,291,31,12,40,275089,96,0,1,1,1,0,1,73,171,25
+22,Diseases of the musculoskeletal system and connective tissue,6,2,1,179,26,9,30,275089,96,0,3,0,0,0,0,56,171,19
+34,laboratory examination,6,2,1,118,10,10,37,275089,96,0,1,0,0,0,0,83,172,28
+12,patient follow-up,6,5,1,233,51,1,31,275089,96,0,2,1,1,0,8,68,178,21
+34,Diseases of the ear and mastoid process,6,6,1,118,10,10,37,275089,96,0,1,0,0,0,0,83,172,28
+34,Diseases of the respiratory system,6,4,1,118,10,10,37,275089,96,0,1,0,0,0,0,83,172,28
+12,patient follow-up,6,4,1,233,51,1,31,275089,96,0,2,1,1,0,8,68,178,21
+5,physiotherapy,7,4,1,235,20,13,43,264604,93,0,1,1,1,0,0,106,167,38
+12,"Injury, poisoning and certain other consequences of external causes",7,6,1,233,51,1,31,264604,93,0,2,1,1,0,8,68,178,21
+9,Diseases of the nervous system,7,2,1,228,14,16,58,264604,93,0,1,2,0,0,1,65,172,22
+34, dental consultation,7,2,1,118,10,10,37,264604,93,0,1,0,0,0,0,83,172,28
+9,Diseases of the nervous system,7,3,1,228,14,16,58,264604,93,0,1,2,0,0,1,65,172,22
+6,patient follow-up,7,3,1,189,29,13,33,264604,93,0,1,2,0,0,2,69,167,25
+34,medical consultation,7,4,1,118,10,10,37,264604,93,0,1,0,0,0,0,83,172,28
+10,patient follow-up,7,4,1,361,52,3,28,264604,93,0,1,1,1,0,4,80,172,27
+28,patient follow-up,7,4,1,225,26,9,28,264604,93,0,1,1,0,0,2,69,169,24
+13,Diseases of the musculoskeletal system and connective tissue,7,2,1,369,17,12,31,264604,93,0,1,3,1,0,0,70,169,25
+11,Diseases of the genitourinary system,7,3,1,289,36,13,33,264604,93,0,1,2,1,0,1,90,172,30
+1,Diseases of the digestive system,7,3,1,235,11,14,37,264604,93,0,3,1,0,0,1,88,172,29
+4,with no reason,0,3,,118,14,13,40,271219,95,0,1,1,1,0,8,98,170,34
+8,with no reason,0,4,,231,35,14,39,271219,95,0,1,2,1,0,2,100,170,35
+35,with no reason,0,6,,179,45,14,53,271219,95,0,1,1,0,0,1,77,175,25
