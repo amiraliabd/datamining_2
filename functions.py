@@ -13,7 +13,7 @@ def k_means(
         y: str,
         x: str,
         file_dir: str,
-        visualization_colors: List[str]
+        visualization_colors: List[str]  # for better visualization, don't use red color. centroids default color is red
 ) -> pd.DataFrame:
 
     csv_data = pd.read_csv(file_dir)
@@ -42,7 +42,7 @@ def k_means(
 
         i = 1
 
-        # calculate distance of each item to others
+        # calculate distance of each item to centroids
         for _, row_c in centroids.iterrows():
             destinations = []
             for _, row_d in data.iterrows():
