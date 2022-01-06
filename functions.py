@@ -2,10 +2,33 @@ import pandas as pd
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
-from pprint import pprint
 from typing import List
+import seaborn as sns
+from sklearn.cluster import KMeans
 
 matplotlib.use('TkAgg')
+sns.set()
+
+
+def standard_kmeans(
+        dataset_dir: str,
+        k: int,
+        ds_row: int,
+        ds_column: int,
+        x: str,
+        y: str
+):
+    data = pd.read_csv(dataset_dir)
+    selected = data.iloc[:, ds_row:ds_column]
+    kmeans = KMeans(k)
+    kmeans.fit(selected)
+    identified_clusters = kmeans.fit_predict(selected)
+    data_with_clusters = data.copy()
+    data_with_clusters['Clusters'] = identified_clusters
+    plt.scatter(data_with_clusters[x], data_with_clusters[y],
+                c=data_with_clusters['Clusters'], cmap='rainbow')
+    plt.show()
+    return data
 
 
 def k_means(
@@ -15,7 +38,6 @@ def k_means(
         file_dir: str,
         visualization_colors: List[str]  # for better visualization, don't use red color. centroids default color is red
 ) -> pd.DataFrame:
-
     csv_data = pd.read_csv(file_dir)
 
     data = csv_data[[x, y]]
